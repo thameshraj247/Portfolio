@@ -1,2 +1,2 @@
 # Portfolio
-Creating a Smooth Portfolio in chrome
+This portfolio utilizes HTML, CSS, and JavaScript to create a smooth scrolling experience for viewers.
